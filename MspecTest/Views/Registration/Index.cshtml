@@ -1,0 +1,10 @@
+﻿@model MspecTest.Models.RegistrationForm
+
+
+<h2>title</h2>
+
+
+@using (Html.BeginForm("Index")) {
+    @Html.EditorForModel()
+    <input type="submit" value="Submit" />
+}
