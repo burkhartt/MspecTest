@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MspecTest", "MspecTest\MspecTest.csproj", "{657E5B63-F5F8-4352-A8B7-B16B83C4A0B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MspecTest.Tests", "MspecTest.Tests\MspecTest.Tests.csproj", "{10B41506-74D0-480B-BA7B-18C20FAA4D67}"

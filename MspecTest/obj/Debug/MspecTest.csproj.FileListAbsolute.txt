@@ -10,3 +10,15 @@ c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest\
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest\bin\Autofac.Integration.Mvc.dll
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest\bin\Autofac.xml
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest\bin\Autofac.Configuration.xml
+C:\_Application\MspecTest\MspecTest\bin\MspecTest.dll
+C:\_Application\MspecTest\MspecTest\bin\MspecTest.pdb
+C:\_Application\MspecTest\MspecTest\bin\Autofac.Configuration.dll
+C:\_Application\MspecTest\MspecTest\bin\Autofac.dll
+C:\_Application\MspecTest\MspecTest\bin\Autofac.Integration.Mvc.dll
+C:\_Application\MspecTest\MspecTest\bin\EntityFramework.dll
+C:\_Application\MspecTest\MspecTest\bin\Autofac.xml
+C:\_Application\MspecTest\MspecTest\bin\Autofac.Configuration.xml
+C:\_Application\MspecTest\MspecTest\bin\EntityFramework.xml
+C:\_Application\MspecTest\MspecTest\obj\Debug\MspecTest.csprojResolveAssemblyReference.cache
+C:\_Application\MspecTest\MspecTest\obj\Debug\MspecTest.dll
+C:\_Application\MspecTest\MspecTest\obj\Debug\MspecTest.pdb

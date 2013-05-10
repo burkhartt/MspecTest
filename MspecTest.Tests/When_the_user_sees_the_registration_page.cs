@@ -18,7 +18,7 @@ namespace MspecTest.Tests {
 
         public It should_return_the_index_view = () => result.CastAs<ViewResult>().ViewName.ShouldEqual("Index");
 
-        public It should_return_a_registration_model = () => result.CastAs<ViewResult>().Model.ShouldBeOfType(typeof (RegistrationForm));
+        public It should_return_a_registration_model = () => result.CastAs<ViewResult>().Model.ShouldBeOfType(typeof (User));
         
         private static RegistrationController controller;
         private static object result;

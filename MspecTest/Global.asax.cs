@@ -49,7 +49,7 @@ namespace MspecTest {
             builder.RegisterType<ExtensibleActionInvoker>().As<IActionInvoker>();
 
             builder.RegisterType<RegistrationService>().As<IRegistrationService>();
-            builder.RegisterType<UserRepository>().As<IUserRepository>();
+            builder.Register(c => new SessionUserRepository(new HttpSessionStateWrapper(HttpContext.Current.Session))).As<IUserRepository>();
             builder.RegisterType<EmailSender>().As<IEmailSender>();
 
             Container = builder.Build();

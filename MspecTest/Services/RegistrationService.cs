@@ -12,7 +12,7 @@ namespace MspecTest.Services {
             this.emailSender = emailSender;
         }
 
-        public void Register(RegistrationForm form) {
+        public void Register(User form) {
             userRepository.Create(form);
             emailSender.Send(form);
         }

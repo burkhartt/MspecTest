@@ -26,3 +26,31 @@ c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest.
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest.Tests\bin\Debug\Autofac.xml
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest.Tests\bin\Debug\Autofac.Configuration.xml
 c:\users\tim.burkhart\documents\visual studio 2010\Projects\MspecTest\MspecTest.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\MspecTest.Tests.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\MspecTest.Tests.pdb
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Autofac.Configuration.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Autofac.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\AutoMoq.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Machine.Specifications.Clr4.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Machine.Specifications.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Moq.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\MspecTest.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Should.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\MspecTest.pdb
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Autofac.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Autofac.Configuration.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Moq.pdb
+C:\_Application\MspecTest\MspecTest.Tests\bin\Debug\Moq.xml
+C:\_Application\MspecTest\MspecTest.Tests\obj\Debug\MspecTest.Tests.csprojResolveAssemblyReference.cache
+C:\_Application\MspecTest\MspecTest.Tests\obj\Debug\MspecTest.Tests.dll
+C:\_Application\MspecTest\MspecTest.Tests\obj\Debug\MspecTest.Tests.pdb

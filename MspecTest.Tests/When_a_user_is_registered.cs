@@ -14,7 +14,7 @@ namespace MspecTest.Tests {
             userRepository = new Mock<IUserRepository>();
             emailSender = new Mock<IEmailSender>();
             registrationService = new RegistrationService(userRepository.Object, emailSender.Object);
-            form = new RegistrationForm();
+            form = new User();
         };
 
         public Because of = () => registrationService.Register(form);
@@ -24,7 +24,7 @@ namespace MspecTest.Tests {
         public It should_send_an_email_to_the_user = () => emailSender.Verify(x => x.Send(form), Times.Once());
 
         private static RegistrationService registrationService;
-        private static RegistrationForm form;
+        private static User form;
         private static Mock<IUserRepository> userRepository;
         private static Mock<IEmailSender> emailSender;
     }
